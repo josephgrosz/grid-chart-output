@@ -83,7 +83,7 @@ const Home = () => {
   }, [socket]);
 
   return (
-    <div className="mt-5">
+    <div className="app-container">
       <div className="grid-container">
       <div className="container">
       <div className="row ">
