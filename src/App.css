@@ -75,7 +75,7 @@ input{
   transform:translateY(-4px) scaleY(1.6) scaleX(1);
 }
 .control-input{
-  transform:translateY(-2px) scaleY(1.4) translateX(-3px);
+  transform:translateY(-4px) scaleY(1.6) translateX(-3px);
 }
 input::placeholder{
   color:black;
