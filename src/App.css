@@ -47,7 +47,7 @@
   transform: scale(5);
 }
 .control-label {
-  font-size: 24px;
+  font-size: 22px;
   color: #3f47cc;
   font-weight: 800;
   width:22px;
@@ -62,7 +62,7 @@ input:focus{
 }
 input{
   padding:0px;
-  font-size: 24px !important;
+  font-size: 22px !important;
   color: #f90706;
   font-weight: 800;
   line-height: 1.5;
@@ -72,7 +72,7 @@ input{
   text-transform: uppercase;
   font-family: 'Arial', sans-serif; 
   background: transparent;
-  transform:translateY(-2px) scaleY(1.4) scaleX(1);
+  transform:translateY(-4px) scaleY(1.6) scaleX(1);
 }
 .control-input{
   transform:translateY(-2px) scaleY(1.4) translateX(-3px);
